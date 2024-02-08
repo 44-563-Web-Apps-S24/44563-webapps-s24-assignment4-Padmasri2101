@@ -12,13 +12,16 @@
 
 .direction:hover {
     background-color: chocolate;
-    color: white;
+    color: yellow;
 }
 .name Title{
     color:palegreen;
 }
+.nameGABRIEL{
+    color:aquamarine;
+}
 
-.nameZINAID {
+.nameZINAIDA {
     color:aquamarine;
 }
 
